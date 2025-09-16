@@ -147,6 +147,7 @@ if (isset($_SESSION['successMessage'])) {
 ?>
 <!DOCTYPE html>
 
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- عرض مناسب للموبايل -->
     <title>Products Management</title> <!-- عنوان الصفحة اللي بيظهر بالتبويبة -->
